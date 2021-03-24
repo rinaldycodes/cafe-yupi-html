@@ -29,6 +29,8 @@ body {
   margin-right: 5px;
 }
 
-.produk a {
+.sectionMenu a,
+.produk a,
+.menuLain a {
   text-decoration: none;
 }
